@@ -1,0 +1,1940 @@
+[{
+ "id": 0,
+ "elements": [{
+  "id": 0,
+  "name": "Black",
+  "filename": "Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Black.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Gradient Blue Green",
+  "filename": "Gradient Blue Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Gradient Blue Green.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Gradient Blue Purple",
+  "filename": "Gradient Blue Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Gradient Blue Purple.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Gradient Blue",
+  "filename": "Gradient Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Gradient Blue.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Gradient Green Orange",
+  "filename": "Gradient Green Orange.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Gradient Green Orange.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Gradient Orange Yellow",
+  "filename": "Gradient Orange Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Gradient Orange Yellow.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Gradient Pink Purple",
+  "filename": "Gradient Pink Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Gradient Pink Purple.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Gradient Turquoise",
+  "filename": "Gradient Turquoise.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Gradient Turquoise.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Gradient Yellow Green",
+  "filename": "Gradient Yellow Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Gradient Yellow Green.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "Orange",
+  "filename": "Orange.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Orange.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "Pink",
+  "filename": "Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Pink.png",
+  "weight": 1
+ }, {
+  "id": 11,
+  "name": "Red",
+  "filename": "Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/Red.png",
+  "weight": 1
+ }, {
+  "id": 12,
+  "name": "White",
+  "filename": "White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND/White.png",
+  "weight": 1
+ }],
+ "name": "BACKGROUND",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 1,
+ "elements": [{
+  "id": 0,
+  "name": "Angel",
+  "filename": "Angel.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND ACCESSORIES/Angel.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Cyberguitar Meta",
+  "filename": "Cyberguitar Meta.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND ACCESSORIES/Cyberguitar Meta.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Cyberguitar",
+  "filename": "Cyberguitar.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND ACCESSORIES/Cyberguitar.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Dual Wielder",
+  "filename": "Dual Wielder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND ACCESSORIES/Dual Wielder.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Left hander",
+  "filename": "Left hander.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND ACCESSORIES/Left hander.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "No Trait",
+  "filename": "No Trait.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND ACCESSORIES/No Trait.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Right hander",
+  "filename": "Right hander.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND ACCESSORIES/Right hander.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Wings of an Angel",
+  "filename": "Wings of an Angel.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/BACKGROUND ACCESSORIES/Wings of an Angel.png",
+  "weight": 1
+ }],
+ "name": "BACKGROUND ACCESSORIES",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 2,
+ "elements": [{
+  "id": 0,
+  "name": "Cyborg",
+  "filename": "Cyborg.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Cyborg.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Human Tattoos",
+  "filename": "Human Tattoos.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Human Tattoos.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Human V1",
+  "filename": "Human V1.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Human V1.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Human V2",
+  "filename": "Human V2.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Human V2.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Human V3",
+  "filename": "Human V3.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Human V3.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Human WAGMI",
+  "filename": "Human WAGMI.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Human WAGMI.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Immortal Green",
+  "filename": "Immortal Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Immortal Green.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Immortal Purple",
+  "filename": "Immortal Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Immortal Purple.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Immortal Yellow",
+  "filename": "Immortal Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Immortal Yellow.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "Lizard Green",
+  "filename": "Lizard Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Lizard Green.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "Lizard White",
+  "filename": "Lizard White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Lizard White.png",
+  "weight": 1
+ }, {
+  "id": 11,
+  "name": "Zebra Blue",
+  "filename": "Zebra Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Zebra Blue.png",
+  "weight": 1
+ }, {
+  "id": 12,
+  "name": "Zebra Brown",
+  "filename": "Zebra Brown.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Zebra Brown.png",
+  "weight": 1
+ }, {
+  "id": 13,
+  "name": "Zebra Purple",
+  "filename": "Zebra Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SKIN/Zebra Purple.png",
+  "weight": 1
+ }],
+ "name": "SKIN",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 3,
+ "elements": [{
+  "id": 0,
+  "name": "Dark Blue",
+  "filename": "Dark Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Dark Blue.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Dark Green",
+  "filename": "Dark Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Dark Green.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Demon eyes blue",
+  "filename": "Demon eyes blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Demon eyes blue.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Demon eyes red",
+  "filename": "Demon eyes red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Demon eyes red.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Matte Dark Pink",
+  "filename": "Matte Dark Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Matte Dark Pink.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Matte White Pink",
+  "filename": "Matte White Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Matte White Pink.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Neon blue dark",
+  "filename": "Neon blue dark.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Neon blue dark.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Neon blue iris",
+  "filename": "Neon blue iris.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Neon blue iris.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Neon blue white",
+  "filename": "Neon blue white.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Neon blue white.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "Neon green black",
+  "filename": "Neon green black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Neon green black.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "Neon red iris",
+  "filename": "Neon red iris.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Neon red iris.png",
+  "weight": 1
+ }, {
+  "id": 11,
+  "name": "Shiny Dark Pink",
+  "filename": "Shiny Dark Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Shiny Dark Pink.png",
+  "weight": 1
+ }, {
+  "id": 12,
+  "name": "Shiny White Pink",
+  "filename": "Shiny White Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/Shiny White Pink.png",
+  "weight": 1
+ }, {
+  "id": 13,
+  "name": "White Blue",
+  "filename": "White Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/White Blue.png",
+  "weight": 1
+ }, {
+  "id": 14,
+  "name": "White Green",
+  "filename": "White Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EYES/White Green.png",
+  "weight": 1
+ }],
+ "name": "EYES",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 4,
+ "elements": [{
+  "id": 0,
+  "name": "Iridescent Shirt Nature",
+  "filename": "Iridescent Shirt Nature.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Iridescent Shirt Nature.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Iridescent shirt Rasta",
+  "filename": "Iridescent shirt Rasta.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Iridescent shirt Rasta.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Iridescent shirt Sea",
+  "filename": "Iridescent shirt Sea.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Iridescent shirt Sea.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Metaclub Disco",
+  "filename": "Metaclub Disco.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Metaclub Disco.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Metaclub Shirt Blue",
+  "filename": "Metaclub Shirt Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Metaclub Shirt Blue.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Metaclub Shirt Green",
+  "filename": "Metaclub Shirt Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Metaclub Shirt Green.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Metaclub Shirt Logo Black",
+  "filename": "Metaclub Shirt Logo Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Metaclub Shirt Logo Black.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Metaclub Shirt Pink",
+  "filename": "Metaclub Shirt Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Metaclub Shirt Pink.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Metaclub Shirt White",
+  "filename": "Metaclub Shirt White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Metaclub Shirt White.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "Metaclub Space",
+  "filename": "Metaclub Space.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Metaclub Space.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "Metaclub Turtleneck",
+  "filename": "Metaclub Turtleneck.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Metaclub Turtleneck.png",
+  "weight": 1
+ }, {
+  "id": 11,
+  "name": "No Trait",
+  "filename": "No Trait.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/No Trait.png",
+  "weight": 1
+ }, {
+  "id": 12,
+  "name": "Plastic Shirt Green",
+  "filename": "Plastic Shirt Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Plastic Shirt Green.png",
+  "weight": 1
+ }, {
+  "id": 13,
+  "name": "Plastic Shirt Pink",
+  "filename": "Plastic Shirt Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Plastic Shirt Pink.png",
+  "weight": 1
+ }, {
+  "id": 14,
+  "name": "Plastic Shirt Yellow",
+  "filename": "Plastic Shirt Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Plastic Shirt Yellow.png",
+  "weight": 1
+ }, {
+  "id": 15,
+  "name": "Turtleneck",
+  "filename": "Turtleneck.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Turtleneck.png",
+  "weight": 1
+ }, {
+  "id": 16,
+  "name": "Zut shirt",
+  "filename": "Zut shirt.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/SHIRT/Zut shirt.png",
+  "weight": 1
+ }],
+ "name": "SHIRT",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 5,
+ "elements": [{
+  "id": 0,
+  "name": "Chain Gold",
+  "filename": "Chain Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Chain Gold.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Chain Iridescent",
+  "filename": "Chain Iridescent.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Chain Iridescent.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Chain Necklace Colored",
+  "filename": "Chain Necklace Colored.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Chain Necklace Colored.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Chain Necklace Gold",
+  "filename": "Chain Necklace Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Chain Necklace Gold.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Chain Necklace Silver",
+  "filename": "Chain Necklace Silver.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Chain Necklace Silver.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Chain Silver",
+  "filename": "Chain Silver.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Chain Silver.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Dogtag Gold",
+  "filename": "Dogtag Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Dogtag Gold.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Dogtag Silver",
+  "filename": "Dogtag Silver.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Dogtag Silver.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Ethereum Chain Gold",
+  "filename": "Ethereum Chain Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Ethereum Chain Gold.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "Ethereum Chain Silver",
+  "filename": "Ethereum Chain Silver.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Ethereum Chain Silver.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "Metaclub Chain",
+  "filename": "Metaclub Chain.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Metaclub Chain.png",
+  "weight": 1
+ }, {
+  "id": 11,
+  "name": "Metaclub Neon Necklace Blue",
+  "filename": "Metaclub Neon Necklace Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Metaclub Neon Necklace Blue.png",
+  "weight": 1
+ }, {
+  "id": 12,
+  "name": "Metaclub Neon Necklace Red",
+  "filename": "Metaclub Neon Necklace Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Metaclub Neon Necklace Red.png",
+  "weight": 1
+ }, {
+  "id": 13,
+  "name": "No Trait",
+  "filename": "No Trait.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/No Trait.png",
+  "weight": 1
+ }, {
+  "id": 14,
+  "name": "Space Pearls Pink",
+  "filename": "Space Pearls Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Space Pearls Pink.png",
+  "weight": 1
+ }, {
+  "id": 15,
+  "name": "Space Pearls Purple",
+  "filename": "Space Pearls Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Space Pearls Purple.png",
+  "weight": 1
+ }, {
+  "id": 16,
+  "name": "USB Necklace",
+  "filename": "USB Necklace.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/USB Necklace.png",
+  "weight": 1
+ }, {
+  "id": 17,
+  "name": "Zut Necklace",
+  "filename": "Zut Necklace.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/NECKLACE/Zut Necklace.png",
+  "weight": 1
+ }],
+ "name": "NECKLACE",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 6,
+ "elements": [{
+  "id": 0,
+  "name": "Cross Golden",
+  "filename": "Cross Golden.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Cross Golden.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Cross Silver",
+  "filename": "Cross Silver.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Cross Silver.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Diamond Blue",
+  "filename": "Diamond Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Diamond Blue.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Diamond Orange",
+  "filename": "Diamond Orange.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Diamond Orange.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Diamond White",
+  "filename": "Diamond White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Diamond White.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Disco Blue Diamond",
+  "filename": "Disco Blue Diamond.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Disco Blue Diamond.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Disco Pink Diamond",
+  "filename": "Disco Pink Diamond.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Disco Pink Diamond.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Disco Red Diamond",
+  "filename": "Disco Red Diamond.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Disco Red Diamond.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Ethereum Gold",
+  "filename": "Ethereum Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Ethereum Gold.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "Ethereum Silver",
+  "filename": "Ethereum Silver.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/Ethereum Silver.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "No Trait",
+  "filename": "No Trait.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/EARRINGS/No Trait.png",
+  "weight": 1
+ }],
+ "name": "EARRINGS",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 7,
+ "elements": [{
+  "id": 0,
+  "name": "Crazy Jacket Blue",
+  "filename": "Crazy Jacket Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Crazy Jacket Blue.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Crazy Jacket Green",
+  "filename": "Crazy Jacket Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Crazy Jacket Green.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Crazy Jacket Purple",
+  "filename": "Crazy Jacket Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Crazy Jacket Purple.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Fur Black",
+  "filename": "Fur Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Fur Black.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Fur Purple",
+  "filename": "Fur Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Fur Purple.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Fur White",
+  "filename": "Fur White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Fur White.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Glitter Jacket Blue",
+  "filename": "Glitter Jacket Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Glitter Jacket Blue.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Glitter Jacket Pink",
+  "filename": "Glitter Jacket Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Glitter Jacket Pink.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Glitter Jacket Yellow",
+  "filename": "Glitter Jacket Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Glitter Jacket Yellow.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "Iridescent Jacket Green Yellow",
+  "filename": "Iridescent Jacket Green Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Iridescent Jacket Green Yellow.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "Iridescent Jacket Purple Blue",
+  "filename": "Iridescent Jacket Purple Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Iridescent Jacket Purple Blue.png",
+  "weight": 1
+ }, {
+  "id": 11,
+  "name": "Iridescent Jacket Yellow Red",
+  "filename": "Iridescent Jacket Yellow Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Iridescent Jacket Yellow Red.png",
+  "weight": 1
+ }, {
+  "id": 12,
+  "name": "Jacket Golden",
+  "filename": "Jacket Golden.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Jacket Golden.png",
+  "weight": 1
+ }, {
+  "id": 13,
+  "name": "Metaclub Blue Hood",
+  "filename": "Metaclub Blue Hood.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Blue Hood.png",
+  "weight": 1
+ }, {
+  "id": 14,
+  "name": "Metaclub Blue Hoodie Green Buzz",
+  "filename": "Metaclub Blue Hoodie Green Buzz.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Blue Hoodie Green Buzz.png",
+  "weight": 1
+ }, {
+  "id": 15,
+  "name": "Metaclub Blue Hoodie White Buzz",
+  "filename": "Metaclub Blue Hoodie White Buzz.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Blue Hoodie White Buzz.png",
+  "weight": 1
+ }, {
+  "id": 16,
+  "name": "Metaclub Green Hood",
+  "filename": "Metaclub Green Hood.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Green Hood.png",
+  "weight": 1
+ }, {
+  "id": 17,
+  "name": "Metaclub Hood Black",
+  "filename": "Metaclub Hood Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Hood Black.png",
+  "weight": 1
+ }, {
+  "id": 18,
+  "name": "Metaclub Hood White",
+  "filename": "Metaclub Hood White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Hood White.png",
+  "weight": 1
+ }, {
+  "id": 19,
+  "name": "Metaclub Pink Hoodie Blue Buzzy",
+  "filename": "Metaclub Pink Hoodie Blue Buzzy.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Pink Hoodie Blue Buzzy.png",
+  "weight": 1
+ }, {
+  "id": 20,
+  "name": "Metaclub Pink Hoodie Blue Hair",
+  "filename": "Metaclub Pink Hoodie Blue Hair.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Pink Hoodie Blue Hair.png",
+  "weight": 1
+ }, {
+  "id": 21,
+  "name": "Metaclub Pink Hoodie Green Hair",
+  "filename": "Metaclub Pink Hoodie Green Hair.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Pink Hoodie Green Hair.png",
+  "weight": 1
+ }, {
+  "id": 22,
+  "name": "Metaclub Pink Hoodie Pink Hair",
+  "filename": "Metaclub Pink Hoodie Pink Hair.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Pink Hoodie Pink Hair.png",
+  "weight": 1
+ }, {
+  "id": 23,
+  "name": "Metaclub Police",
+  "filename": "Metaclub Police.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Police.png",
+  "weight": 1
+ }, {
+  "id": 24,
+  "name": "Metaclub Punk Jacket",
+  "filename": "Metaclub Punk Jacket.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Punk Jacket.png",
+  "weight": 1
+ }, {
+  "id": 25,
+  "name": "Metaclub Purple Hood",
+  "filename": "Metaclub Purple Hood.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Purple Hood.png",
+  "weight": 1
+ }, {
+  "id": 26,
+  "name": "Metaclub Purple Hoodie Blue Buzzy",
+  "filename": "Metaclub Purple Hoodie Blue Buzzy.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Purple Hoodie Blue Buzzy.png",
+  "weight": 1
+ }, {
+  "id": 27,
+  "name": "Metaclub Purple Hoodie",
+  "filename": "Metaclub Purple Hoodie.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Purple Hoodie.png",
+  "weight": 1
+ }, {
+  "id": 28,
+  "name": "Metaclub Red Hood",
+  "filename": "Metaclub Red Hood.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Red Hood.png",
+  "weight": 1
+ }, {
+  "id": 29,
+  "name": "Metaclub Rock Jacket",
+  "filename": "Metaclub Rock Jacket.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Rock Jacket.png",
+  "weight": 1
+ }, {
+  "id": 30,
+  "name": "Metaclub Yellow Hoodie Blue Hair",
+  "filename": "Metaclub Yellow Hoodie Blue Hair.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Yellow Hoodie Blue Hair.png",
+  "weight": 1
+ }, {
+  "id": 31,
+  "name": "Metaclub Yellow Hoodie Red Buzz",
+  "filename": "Metaclub Yellow Hoodie Red Buzz.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Yellow Hoodie Red Buzz.png",
+  "weight": 1
+ }, {
+  "id": 32,
+  "name": "Metaclub Yellow Hoodie White Buzz",
+  "filename": "Metaclub Yellow Hoodie White Buzz.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Yellow Hoodie White Buzz.png",
+  "weight": 1
+ }, {
+  "id": 33,
+  "name": "Metaclub Yellow Hoodie Yellow Hair",
+  "filename": "Metaclub Yellow Hoodie Yellow Hair.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Yellow Hoodie Yellow Hair.png",
+  "weight": 1
+ }, {
+  "id": 34,
+  "name": "Metaclub Yellow Hoodie",
+  "filename": "Metaclub Yellow Hoodie.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Metaclub Yellow Hoodie.png",
+  "weight": 1
+ }, {
+  "id": 35,
+  "name": "No Trait",
+  "filename": "No Trait.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/No Trait.png",
+  "weight": 1
+ }, {
+  "id": 36,
+  "name": "Party Jacket Blue",
+  "filename": "Party Jacket Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Party Jacket Blue.png",
+  "weight": 1
+ }, {
+  "id": 37,
+  "name": "Party Jacket Pink",
+  "filename": "Party Jacket Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Party Jacket Pink.png",
+  "weight": 1
+ }, {
+  "id": 38,
+  "name": "Red Ethereum Black Jacket",
+  "filename": "Red Ethereum Black Jacket.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Red Ethereum Black Jacket.png",
+  "weight": 1
+ }, {
+  "id": 39,
+  "name": "Space Outfit Blue",
+  "filename": "Space Outfit Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Space Outfit Blue.png",
+  "weight": 1
+ }, {
+  "id": 40,
+  "name": "Space Outfit Purple",
+  "filename": "Space Outfit Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Space Outfit Purple.png",
+  "weight": 1
+ }, {
+  "id": 41,
+  "name": "Space Outfit Red",
+  "filename": "Space Outfit Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Space Outfit Red.png",
+  "weight": 1
+ }, {
+  "id": 42,
+  "name": "Street Outfit Blue",
+  "filename": "Street Outfit Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Street Outfit Blue.png",
+  "weight": 1
+ }, {
+  "id": 43,
+  "name": "Street Outfit Green",
+  "filename": "Street Outfit Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Street Outfit Green.png",
+  "weight": 1
+ }, {
+  "id": 44,
+  "name": "Street Outfit Purple",
+  "filename": "Street Outfit Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Street Outfit Purple.png",
+  "weight": 1
+ }, {
+  "id": 45,
+  "name": "White Ethereum Blue Jacket",
+  "filename": "White Ethereum Blue Jacket.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/White Ethereum Blue Jacket.png",
+  "weight": 1
+ }, {
+  "id": 46,
+  "name": "White Ethereum Pink Jacket",
+  "filename": "White Ethereum Pink Jacket.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/White Ethereum Pink Jacket.png",
+  "weight": 1
+ }, {
+  "id": 47,
+  "name": "White Ethereum Red Jacket",
+  "filename": "White Ethereum Red Jacket.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/White Ethereum Red Jacket.png",
+  "weight": 1
+ }, {
+  "id": 48,
+  "name": "White Ethereum Yellow Jacket",
+  "filename": "White Ethereum Yellow Jacket.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/White Ethereum Yellow Jacket.png",
+  "weight": 1
+ }, {
+  "id": 49,
+  "name": "Yellow Ethereum Black Jacket",
+  "filename": "Yellow Ethereum Black Jacket.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Yellow Ethereum Black Jacket.png",
+  "weight": 1
+ }, {
+  "id": 50,
+  "name": "Zut Jacket",
+  "filename": "Zut Jacket.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/JACKETS/Zut Jacket.png",
+  "weight": 1
+ }],
+ "name": "JACKETS",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 8,
+ "elements": [{
+  "id": 0,
+  "name": "Hipster Beard",
+  "filename": "Hipster Beard.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Hipster Beard.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Long Beard Black",
+  "filename": "Long Beard Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Long Beard Black.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Long Beard Brown",
+  "filename": "Long Beard Brown.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Long Beard Brown.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Metaclub Leader Mask",
+  "filename": "Metaclub Leader Mask.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Metaclub Leader Mask.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Metaclub Mask Blue",
+  "filename": "Metaclub Mask Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Metaclub Mask Blue.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Metaclub Mask Red Yellow",
+  "filename": "Metaclub Mask Red Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Metaclub Mask Red Yellow.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Metaclub Shards Mask",
+  "filename": "Metaclub Shards Mask.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Metaclub Shards Mask.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Moustache",
+  "filename": "Moustache.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Moustache.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Neon Mask",
+  "filename": "Neon Mask.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Neon Mask.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "No Trait",
+  "filename": "No Trait.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/No Trait.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "Opera Mask",
+  "filename": "Opera Mask.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Opera Mask.png",
+  "weight": 1
+ }, {
+  "id": 11,
+  "name": "Spike Mask Black",
+  "filename": "Spike Mask Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Spike Mask Black.png",
+  "weight": 1
+ }, {
+  "id": 12,
+  "name": "Spike Mask Blue",
+  "filename": "Spike Mask Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Spike Mask Blue.png",
+  "weight": 1
+ }, {
+  "id": 13,
+  "name": "Spike Mask Gold",
+  "filename": "Spike Mask Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Spike Mask Gold.png",
+  "weight": 1
+ }, {
+  "id": 14,
+  "name": "Spike Mask Red",
+  "filename": "Spike Mask Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Spike Mask Red.png",
+  "weight": 1
+ }, {
+  "id": 15,
+  "name": "Spike Mask Silver",
+  "filename": "Spike Mask Silver.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MASK/Spike Mask Silver.png",
+  "weight": 1
+ }],
+ "name": "MASK",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 9,
+ "elements": [{
+  "id": 0,
+  "name": "Beret Short Hair",
+  "filename": "Beret Short Hair.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Beret Short Hair.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Beret To The Shoulder",
+  "filename": "Beret To The Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Beret To The Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Beret",
+  "filename": "Beret.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Beret.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Bowl Cut Blue",
+  "filename": "Bowl Cut Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Bowl Cut Blue.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Bowl Cut Green",
+  "filename": "Bowl Cut Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Bowl Cut Green.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Bowl Cut Pink",
+  "filename": "Bowl Cut Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Bowl Cut Pink.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Bowl Cut Yellow",
+  "filename": "Bowl Cut Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Bowl Cut Yellow.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Buzz Red",
+  "filename": "Buzz Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Buzz Red.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Buzz White",
+  "filename": "Buzz White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Buzz White.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "Buzz Yellow",
+  "filename": "Buzz Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Buzz Yellow.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "Buzzy Black",
+  "filename": "Buzzy Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Buzzy Black.png",
+  "weight": 1
+ }, {
+  "id": 11,
+  "name": "Buzzy Blue",
+  "filename": "Buzzy Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Buzzy Blue.png",
+  "weight": 1
+ }, {
+  "id": 12,
+  "name": "Buzzy Crazy",
+  "filename": "Buzzy Crazy.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Buzzy Crazy.png",
+  "weight": 1
+ }, {
+  "id": 13,
+  "name": "Charging Bucket Hat Black Pushed Back",
+  "filename": "Charging Bucket Hat Black Pushed Back.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Charging Bucket Hat Black Pushed Back.png",
+  "weight": 1
+ }, {
+  "id": 14,
+  "name": "Charging Bucket Hat Blue To The Shoulder",
+  "filename": "Charging Bucket Hat Blue To The Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Charging Bucket Hat Blue To The Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 15,
+  "name": "Charging Bucket Hat Blue",
+  "filename": "Charging Bucket Hat Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Charging Bucket Hat Blue.png",
+  "weight": 1
+ }, {
+  "id": 16,
+  "name": "Charging Bucket Hat Gold",
+  "filename": "Charging Bucket Hat Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Charging Bucket Hat Gold.png",
+  "weight": 1
+ }, {
+  "id": 17,
+  "name": "Charging Bucket Hat Long Brown Fringes",
+  "filename": "Charging Bucket Hat Long Brown Fringes.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Charging Bucket Hat Long Brown Fringes.png",
+  "weight": 1
+ }, {
+  "id": 18,
+  "name": "Cowboy Hat Casual",
+  "filename": "Cowboy Hat Casual.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Cowboy Hat Casual.png",
+  "weight": 1
+ }, {
+  "id": 19,
+  "name": "Crown with Blue Bowl Cut",
+  "filename": "Crown with Blue Bowl Cut.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Crown with Blue Bowl Cut.png",
+  "weight": 1
+ }, {
+  "id": 20,
+  "name": "Crown with Gold Dreadlocks",
+  "filename": "Crown with Gold Dreadlocks.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Crown with Gold Dreadlocks.png",
+  "weight": 1
+ }, {
+  "id": 21,
+  "name": "Crown With Red Buzz",
+  "filename": "Crown With Red Buzz.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Crown With Red Buzz.png",
+  "weight": 1
+ }, {
+  "id": 22,
+  "name": "Crown with White Punk",
+  "filename": "Crown with White Punk.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Crown with White Punk.png",
+  "weight": 1
+ }, {
+  "id": 23,
+  "name": "Diamond",
+  "filename": "Diamond.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Diamond.png",
+  "weight": 1
+ }, {
+  "id": 24,
+  "name": "Dreadlocks Black",
+  "filename": "Dreadlocks Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Dreadlocks Black.png",
+  "weight": 1
+ }, {
+  "id": 25,
+  "name": "Dreadlocks Gold",
+  "filename": "Dreadlocks Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Dreadlocks Gold.png",
+  "weight": 1
+ }, {
+  "id": 26,
+  "name": "Dreadlocks Purple",
+  "filename": "Dreadlocks Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Dreadlocks Purple.png",
+  "weight": 1
+ }, {
+  "id": 27,
+  "name": "Dreadlocks White",
+  "filename": "Dreadlocks White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Dreadlocks White.png",
+  "weight": 1
+ }, {
+  "id": 28,
+  "name": "Drinking Helmet Blue To The Shoulder",
+  "filename": "Drinking Helmet Blue To The Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Drinking Helmet Blue To The Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 29,
+  "name": "Drinking Helmet Blue with Blonde Bowl Cut",
+  "filename": "Drinking Helmet Blue with Blonde Bowl Cut.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Drinking Helmet Blue with Blonde Bowl Cut.png",
+  "weight": 1
+ }, {
+  "id": 30,
+  "name": "Drinking Helmet Orange To The Shoulder",
+  "filename": "Drinking Helmet Orange To The Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Drinking Helmet Orange To The Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 31,
+  "name": "Drinking Helmet Orange with Blue Bowl Cut",
+  "filename": "Drinking Helmet Orange with Blue Bowl Cut.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Drinking Helmet Orange with Blue Bowl Cut.png",
+  "weight": 1
+ }, {
+  "id": 32,
+  "name": "Drinking Orange Helmet",
+  "filename": "Drinking Orange Helmet.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Drinking Orange Helmet.png",
+  "weight": 1
+ }, {
+  "id": 33,
+  "name": "Fringe Up Black",
+  "filename": "Fringe Up Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fringe Up Black.png",
+  "weight": 1
+ }, {
+  "id": 34,
+  "name": "Fringe Up Blue",
+  "filename": "Fringe Up Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fringe Up Blue.png",
+  "weight": 1
+ }, {
+  "id": 35,
+  "name": "Fringe Up White",
+  "filename": "Fringe Up White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fringe Up White.png",
+  "weight": 1
+ }, {
+  "id": 36,
+  "name": "Fur Hat Black Pushed Back",
+  "filename": "Fur Hat Black Pushed Back.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fur Hat Black Pushed Back.png",
+  "weight": 1
+ }, {
+  "id": 37,
+  "name": "Fur Hat Black To The Shoulder",
+  "filename": "Fur Hat Black To The Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fur Hat Black To The Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 38,
+  "name": "Fur Hat Black",
+  "filename": "Fur Hat Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fur Hat Black.png",
+  "weight": 1
+ }, {
+  "id": 39,
+  "name": "Fur Hat Purple Pushed Back",
+  "filename": "Fur Hat Purple Pushed Back.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fur Hat Purple Pushed Back.png",
+  "weight": 1
+ }, {
+  "id": 40,
+  "name": "Fur Hat Purple To The Shoulder",
+  "filename": "Fur Hat Purple To The Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fur Hat Purple To The Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 41,
+  "name": "Fur Hat Purple",
+  "filename": "Fur Hat Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fur Hat Purple.png",
+  "weight": 1
+ }, {
+  "id": 42,
+  "name": "Fur Hat White Pushed Back",
+  "filename": "Fur Hat White Pushed Back.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fur Hat White Pushed Back.png",
+  "weight": 1
+ }, {
+  "id": 43,
+  "name": "Fur Hat White To The Shoulder",
+  "filename": "Fur Hat White To The Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fur Hat White To The Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 44,
+  "name": "Fur Hat White",
+  "filename": "Fur Hat White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Fur Hat White.png",
+  "weight": 1
+ }, {
+  "id": 45,
+  "name": "Helmet with Black Long Fringes",
+  "filename": "Helmet with Black Long Fringes.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Helmet with Black Long Fringes.png",
+  "weight": 1
+ }, {
+  "id": 46,
+  "name": "Helmet with Brown Long Fringes",
+  "filename": "Helmet with Brown Long Fringes.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Helmet with Brown Long Fringes.png",
+  "weight": 1
+ }, {
+  "id": 47,
+  "name": "Helmet with Gold Dreadlocks",
+  "filename": "Helmet with Gold Dreadlocks.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Helmet with Gold Dreadlocks.png",
+  "weight": 1
+ }, {
+  "id": 48,
+  "name": "Helmet with Iridescent Long Fringes",
+  "filename": "Helmet with Iridescent Long Fringes.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Helmet with Iridescent Long Fringes.png",
+  "weight": 1
+ }, {
+  "id": 49,
+  "name": "Helmet with Iridescent Short Hair",
+  "filename": "Helmet with Iridescent Short Hair.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Helmet with Iridescent Short Hair.png",
+  "weight": 1
+ }, {
+  "id": 50,
+  "name": "Helmet with Pink Bowl Cut",
+  "filename": "Helmet with Pink Bowl Cut.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Helmet with Pink Bowl Cut.png",
+  "weight": 1
+ }, {
+  "id": 51,
+  "name": "Helmet with White Dreadlocks",
+  "filename": "Helmet with White Dreadlocks.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Helmet with White Dreadlocks.png",
+  "weight": 1
+ }, {
+  "id": 52,
+  "name": "Long Black Fringes",
+  "filename": "Long Black Fringes.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Long Black Fringes.png",
+  "weight": 1
+ }, {
+  "id": 53,
+  "name": "Long Black Hair Pushed Back",
+  "filename": "Long Black Hair Pushed Back.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Long Black Hair Pushed Back.png",
+  "weight": 1
+ }, {
+  "id": 54,
+  "name": "Long Brown Fringes",
+  "filename": "Long Brown Fringes.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Long Brown Fringes.png",
+  "weight": 1
+ }, {
+  "id": 55,
+  "name": "Long Brown Hair Pushed Back",
+  "filename": "Long Brown Hair Pushed Back.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Long Brown Hair Pushed Back.png",
+  "weight": 1
+ }, {
+  "id": 56,
+  "name": "Long Iridescent Fringes",
+  "filename": "Long Iridescent Fringes.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Long Iridescent Fringes.png",
+  "weight": 1
+ }, {
+  "id": 57,
+  "name": "Metaclub Astronaut Helmet",
+  "filename": "Metaclub Astronaut Helmet.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Metaclub Astronaut Helmet.png",
+  "weight": 1
+ }, {
+  "id": 58,
+  "name": "Metaclub Cap",
+  "filename": "Metaclub Cap.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Metaclub Cap.png",
+  "weight": 1
+ }, {
+  "id": 59,
+  "name": "Metaclub Cowboy",
+  "filename": "Metaclub Cowboy.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Metaclub Cowboy.png",
+  "weight": 1
+ }, {
+  "id": 60,
+  "name": "Metaclub Golden Cowboy",
+  "filename": "Metaclub Golden Cowboy.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Metaclub Golden Cowboy.png",
+  "weight": 1
+ }, {
+  "id": 61,
+  "name": "Metaclub VR Glasses",
+  "filename": "Metaclub VR Glasses.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Metaclub VR Glasses.png",
+  "weight": 1
+ }, {
+  "id": 62,
+  "name": "Punk Green",
+  "filename": "Punk Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Punk Green.png",
+  "weight": 1
+ }, {
+  "id": 63,
+  "name": "Punk Pink",
+  "filename": "Punk Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Punk Pink.png",
+  "weight": 1
+ }, {
+  "id": 64,
+  "name": "Punk Red",
+  "filename": "Punk Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Punk Red.png",
+  "weight": 1
+ }, {
+  "id": 65,
+  "name": "Punk White",
+  "filename": "Punk White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Punk White.png",
+  "weight": 1
+ }, {
+  "id": 66,
+  "name": "Saturn Helmet",
+  "filename": "Saturn Helmet.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Saturn Helmet.png",
+  "weight": 1
+ }, {
+  "id": 67,
+  "name": "Scarf Dreads",
+  "filename": "Scarf Dreads.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Scarf Dreads.png",
+  "weight": 1
+ }, {
+  "id": 68,
+  "name": "Shards Blue Fringe Up",
+  "filename": "Shards Blue Fringe Up.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Shards Blue Fringe Up.png",
+  "weight": 1
+ }, {
+  "id": 69,
+  "name": "Shards Green Punk",
+  "filename": "Shards Green Punk.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Shards Green Punk.png",
+  "weight": 1
+ }, {
+  "id": 70,
+  "name": "Shards Green Rak",
+  "filename": "Shards Green Rak.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Shards Green Rak.png",
+  "weight": 1
+ }, {
+  "id": 71,
+  "name": "Shards Iridiscent",
+  "filename": "Shards Iridiscent.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Shards Iridiscent.png",
+  "weight": 1
+ }, {
+  "id": 72,
+  "name": "Shards Pink Bowl Cut",
+  "filename": "Shards Pink Bowl Cut.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Shards Pink Bowl Cut.png",
+  "weight": 1
+ }, {
+  "id": 73,
+  "name": "Shards Purple Rak",
+  "filename": "Shards Purple Rak.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Shards Purple Rak.png",
+  "weight": 1
+ }, {
+  "id": 74,
+  "name": "Shards Red Buzz",
+  "filename": "Shards Red Buzz.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Shards Red Buzz.png",
+  "weight": 1
+ }, {
+  "id": 75,
+  "name": "Shards White Dreadlocks",
+  "filename": "Shards White Dreadlocks.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Shards White Dreadlocks.png",
+  "weight": 1
+ }, {
+  "id": 76,
+  "name": "Space Helmet Blue To The Shoulder",
+  "filename": "Space Helmet Blue To The Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Space Helmet Blue To The Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 77,
+  "name": "Space Helmet Blue with Pink Bowl Cut",
+  "filename": "Space Helmet Blue with Pink Bowl Cut.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Space Helmet Blue with Pink Bowl Cut.png",
+  "weight": 1
+ }, {
+  "id": 78,
+  "name": "Space Helmet Pink Iridescent",
+  "filename": "Space Helmet Pink Iridescent.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Space Helmet Pink Iridescent.png",
+  "weight": 1
+ }, {
+  "id": 79,
+  "name": "Space Helmet Pink Pushed Back",
+  "filename": "Space Helmet Pink Pushed Back.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Space Helmet Pink Pushed Back.png",
+  "weight": 1
+ }, {
+  "id": 80,
+  "name": "Space Helmet Pink To The Shoulder",
+  "filename": "Space Helmet Pink To The Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Space Helmet Pink To The Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 81,
+  "name": "Space Helmet Pink",
+  "filename": "Space Helmet Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Space Helmet Pink.png",
+  "weight": 1
+ }, {
+  "id": 82,
+  "name": "Space Helmet",
+  "filename": "Space Helmet.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/Space Helmet.png",
+  "weight": 1
+ }, {
+  "id": 83,
+  "name": "To the Shoulder",
+  "filename": "To the Shoulder.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/To the Shoulder.png",
+  "weight": 1
+ }, {
+  "id": 84,
+  "name": "White cap",
+  "filename": "White cap.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HAIRS HATS/White cap.png",
+  "weight": 1
+ }],
+ "name": "HAIRS HATS",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 10,
+ "elements": [{
+  "id": 0,
+  "name": "Cigarette",
+  "filename": "Cigarette.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/Cigarette.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Gum Pink",
+  "filename": "Gum Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/Gum Pink.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Gum Purple",
+  "filename": "Gum Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/Gum Purple.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Gum Yellow",
+  "filename": "Gum Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/Gum Yellow.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Lollipop Green",
+  "filename": "Lollipop Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/Lollipop Green.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Lollipop Trippy",
+  "filename": "Lollipop Trippy.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/Lollipop Trippy.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Metaclub Cup Blue",
+  "filename": "Metaclub Cup Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/Metaclub Cup Blue.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Metaclub Cup Gold",
+  "filename": "Metaclub Cup Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/Metaclub Cup Gold.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Metaclub Pipe",
+  "filename": "Metaclub Pipe.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/Metaclub Pipe.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "No Trait",
+  "filename": "No Trait.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/MOUTH ACCESSORIES/No Trait.png",
+  "weight": 1
+ }],
+ "name": "MOUTH ACCESSORIES",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 11,
+ "elements": [{
+  "id": 0,
+  "name": "Cyclop glasses",
+  "filename": "Cyclop glasses.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Cyclop glasses.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Future Glasses Green",
+  "filename": "Future Glasses Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Future Glasses Green.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "Future Glasses Pink",
+  "filename": "Future Glasses Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Future Glasses Pink.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Future Glasses Turquoise",
+  "filename": "Future Glasses Turquoise.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Future Glasses Turquoise.png",
+  "weight": 1
+ }, {
+  "id": 4,
+  "name": "Future Glasses Yellow",
+  "filename": "Future Glasses Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Future Glasses Yellow.png",
+  "weight": 1
+ }, {
+  "id": 5,
+  "name": "Glasses Punk",
+  "filename": "Glasses Punk.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Glasses Punk.png",
+  "weight": 1
+ }, {
+  "id": 6,
+  "name": "Glasses Red",
+  "filename": "Glasses Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Glasses Red.png",
+  "weight": 1
+ }, {
+  "id": 7,
+  "name": "Goggles Blue",
+  "filename": "Goggles Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Goggles Blue.png",
+  "weight": 1
+ }, {
+  "id": 8,
+  "name": "Goggles Green",
+  "filename": "Goggles Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Goggles Green.png",
+  "weight": 1
+ }, {
+  "id": 9,
+  "name": "Goggles Red",
+  "filename": "Goggles Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Goggles Red.png",
+  "weight": 1
+ }, {
+  "id": 10,
+  "name": "Goggles Yellow",
+  "filename": "Goggles Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Goggles Yellow.png",
+  "weight": 1
+ }, {
+  "id": 11,
+  "name": "Headset Black",
+  "filename": "Headset Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Headset Black.png",
+  "weight": 1
+ }, {
+  "id": 12,
+  "name": "Headset White",
+  "filename": "Headset White.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Headset White.png",
+  "weight": 1
+ }, {
+  "id": 13,
+  "name": "Metaclub AR Glasses",
+  "filename": "Metaclub AR Glasses.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub AR Glasses.png",
+  "weight": 1
+ }, {
+  "id": 14,
+  "name": "Metaclub Facemask Purple Pink",
+  "filename": "Metaclub Facemask Purple Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Facemask Purple Pink.png",
+  "weight": 1
+ }, {
+  "id": 15,
+  "name": "Metaclub Facemask Red Yellow",
+  "filename": "Metaclub Facemask Red Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Facemask Red Yellow.png",
+  "weight": 1
+ }, {
+  "id": 16,
+  "name": "Metaclub Glasses Blue",
+  "filename": "Metaclub Glasses Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Glasses Blue.png",
+  "weight": 1
+ }, {
+  "id": 17,
+  "name": "Metaclub Glasses Grand Black",
+  "filename": "Metaclub Glasses Grand Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Glasses Grand Black.png",
+  "weight": 1
+ }, {
+  "id": 18,
+  "name": "Metaclub Glasses Grand Green",
+  "filename": "Metaclub Glasses Grand Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Glasses Grand Green.png",
+  "weight": 1
+ }, {
+  "id": 19,
+  "name": "Metaclub Glasses Grand Pink",
+  "filename": "Metaclub Glasses Grand Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Glasses Grand Pink.png",
+  "weight": 1
+ }, {
+  "id": 20,
+  "name": "Metaclub Glasses Grand Purple",
+  "filename": "Metaclub Glasses Grand Purple.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Glasses Grand Purple.png",
+  "weight": 1
+ }, {
+  "id": 21,
+  "name": "Metaclub Glasses Green",
+  "filename": "Metaclub Glasses Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Glasses Green.png",
+  "weight": 1
+ }, {
+  "id": 22,
+  "name": "Metaclub Glasses Logo",
+  "filename": "Metaclub Glasses Logo.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Glasses Logo.png",
+  "weight": 1
+ }, {
+  "id": 23,
+  "name": "Metaclub Glasses Pink",
+  "filename": "Metaclub Glasses Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Glasses Pink.png",
+  "weight": 1
+ }, {
+  "id": 24,
+  "name": "Metaclub Glasses Red",
+  "filename": "Metaclub Glasses Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Glasses Red.png",
+  "weight": 1
+ }, {
+  "id": 25,
+  "name": "Metaclub Headphones Black",
+  "filename": "Metaclub Headphones Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Headphones Black.png",
+  "weight": 1
+ }, {
+  "id": 26,
+  "name": "Metaclub Headphones Blue",
+  "filename": "Metaclub Headphones Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Headphones Blue.png",
+  "weight": 1
+ }, {
+  "id": 27,
+  "name": "Metaclub Headphones Pink",
+  "filename": "Metaclub Headphones Pink.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Headphones Pink.png",
+  "weight": 1
+ }, {
+  "id": 28,
+  "name": "Metaclub Headphones Red",
+  "filename": "Metaclub Headphones Red.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Headphones Red.png",
+  "weight": 1
+ }, {
+  "id": 29,
+  "name": "Metaclub Spy Glasses ",
+  "filename": "Metaclub Spy Glasses .png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Metaclub Spy Glasses .png",
+  "weight": 1
+ }, {
+  "id": 30,
+  "name": "Modern Glasses Black",
+  "filename": "Modern Glasses Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Modern Glasses Black.png",
+  "weight": 1
+ }, {
+  "id": 31,
+  "name": "Modern Glasses Blue",
+  "filename": "Modern Glasses Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Modern Glasses Blue.png",
+  "weight": 1
+ }, {
+  "id": 32,
+  "name": "Modern Glasses Green And Blue",
+  "filename": "Modern Glasses Green And Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Modern Glasses Green And Blue.png",
+  "weight": 1
+ }, {
+  "id": 33,
+  "name": "No Trait",
+  "filename": "No Trait.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/No Trait.png",
+  "weight": 1
+ }, {
+  "id": 34,
+  "name": "Piercings",
+  "filename": "Piercings.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Piercings.png",
+  "weight": 1
+ }, {
+  "id": 35,
+  "name": "Pixel Glasses",
+  "filename": "Pixel Glasses.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Pixel Glasses.png",
+  "weight": 1
+ }, {
+  "id": 36,
+  "name": "Shutter Glasses Blue",
+  "filename": "Shutter Glasses Blue.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Shutter Glasses Blue.png",
+  "weight": 1
+ }, {
+  "id": 37,
+  "name": "Shutter Glasses Green",
+  "filename": "Shutter Glasses Green.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Shutter Glasses Green.png",
+  "weight": 1
+ }, {
+  "id": 38,
+  "name": "Shutter Glasses Turquoise",
+  "filename": "Shutter Glasses Turquoise.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Shutter Glasses Turquoise.png",
+  "weight": 1
+ }, {
+  "id": 39,
+  "name": "Shutter Glasses Yellow",
+  "filename": "Shutter Glasses Yellow.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Shutter Glasses Yellow.png",
+  "weight": 1
+ }, {
+  "id": 40,
+  "name": "Space Glasses Black",
+  "filename": "Space Glasses Black.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Space Glasses Black.png",
+  "weight": 1
+ }, {
+  "id": 41,
+  "name": "Space Glasses Gold",
+  "filename": "Space Glasses Gold.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Space Glasses Gold.png",
+  "weight": 1
+ }, {
+  "id": 42,
+  "name": "Spiral Glasses",
+  "filename": "Spiral Glasses.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Spiral Glasses.png",
+  "weight": 1
+ }, {
+  "id": 43,
+  "name": "Spy Glasses Metaclub",
+  "filename": "Spy Glasses Metaclub.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Spy Glasses Metaclub.png",
+  "weight": 1
+ }, {
+  "id": 44,
+  "name": "Wavey Glasses",
+  "filename": "Wavey Glasses.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Wavey Glasses.png",
+  "weight": 1
+ }, {
+  "id": 45,
+  "name": "Zut Mask",
+  "filename": "Zut Mask.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/HEAD ACCESSORIES/Zut Mask.png",
+  "weight": 1
+ }],
+ "name": "HEAD ACCESSORIES",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}, {
+ "id": 12,
+ "elements": [{
+  "id": 0,
+  "name": "Champagne Bottle",
+  "filename": "Champagne Bottle.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/FRONT ACCESSORIES/Champagne Bottle.png",
+  "weight": 1
+ }, {
+  "id": 1,
+  "name": "Microphone",
+  "filename": "Microphone.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/FRONT ACCESSORIES/Microphone.png",
+  "weight": 1
+ }, {
+  "id": 2,
+  "name": "No Trait",
+  "filename": "No Trait.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/FRONT ACCESSORIES/No Trait.png",
+  "weight": 1
+ }, {
+  "id": 3,
+  "name": "Weapon",
+  "filename": "Weapon.png",
+  "path": "C:\\Users\\ihdan\\git\\NFTs\\tricrypta_generative_art_toolchain/layers/FRONT ACCESSORIES/Weapon.png",
+  "weight": 1
+ }],
+ "name": "FRONT ACCESSORIES",
+ "blend": "source-over",
+ "opacity": 1,
+ "bypassDNA": false
+}]
